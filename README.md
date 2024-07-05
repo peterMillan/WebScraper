@@ -28,7 +28,10 @@ venv\Scripts\activate
 
 pip install -r requirements.txt
 
+>>Ejecuta proyecto
 flask run
+
+
 
 EJEMPLO DE URL 
 https://crepesywaffles.com/menu
